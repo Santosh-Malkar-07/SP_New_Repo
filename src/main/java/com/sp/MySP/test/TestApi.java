@@ -9,6 +9,6 @@ public class TestApi {
 	@GetMapping("/welcome")
 	public String getData() {
 		
-		return "Welcome to SP Application dear user  Updated";
+		return "Welcome to SP Application dear user  Updated Data";
 	}
 }
